@@ -1,0 +1,11 @@
+body,html{
+ margin:auto;
+ background-color:lightcoral
+}
+
+#destaque{
+    background-image: url(forno.jpg);
+    background-size: cover;
+    text-align: center;
+    color:sienna
+}
